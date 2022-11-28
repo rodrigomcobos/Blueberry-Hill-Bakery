@@ -1,0 +1,458 @@
+@font-face {
+  font-family: 'bakery-icon';
+  src:  url('fonts/bakery-icon.eot?qegnxg');
+  src:  url('fonts/bakery-icon.eot?qegnxg#iefix') format('embedded-opentype'),
+    url('fonts/bakery-icon.ttf?qegnxg') format('truetype'),
+    url('fonts/bakery-icon.woff?qegnxg') format('woff'),
+    url('fonts/bakery-icon.svg?qegnxg#bakery-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ba-"], [class*=" ba-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bakery-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ba-biscuits:before {
+  content: "\e900";
+}
+.ba-cupcake:before {
+  content: "\e901";
+}
+.ba-right-arrow:before {
+  content: "\e902";
+}
+.ba-bread-2:before {
+  content: "\e903";
+}
+.ba-left-arrow:before {
+  content: "\e904";
+}
+.ba-oven:before {
+  content: "\e905";
+}
+.ba-biscuit-1:before {
+  content: "\e906";
+}
+.ba-milk:before {
+  content: "\e907";
+}
+.ba-bread:before {
+  content: "\e908";
+}
+.ba-egg:before {
+  content: "\e909";
+}
+.ba-fast-food:before {
+  content: "\e90a";
+}
+.ba-pretzel:before {
+  content: "\e90b";
+}
+.ba-cake-8:before {
+  content: "\e90c";
+}
+.ba-cookie:before {
+  content: "\e90d";
+}
+.ba-cake-7:before {
+  content: "\e90e";
+}
+.ba-stone-oven:before {
+  content: "\e90f";
+}
+.ba-flour:before {
+  content: "\e910";
+}
+.ba-sweets:before {
+  content: "\e911";
+}
+.ba-cake-6:before {
+  content: "\e912";
+}
+.ba-pancake:before {
+  content: "\e913";
+}
+.ba-smoothie:before {
+  content: "\e914";
+}
+.ba-sourdough:before {
+  content: "\e915";
+}
+.ba-biscuit:before {
+  content: "\e916";
+}
+.ba-kifli:before {
+  content: "\e917";
+}
+.ba-cake-5:before {
+  content: "\e918";
+}
+.ba-honey:before {
+  content: "\e919";
+}
+.ba-cake-4:before {
+  content: "\e91a";
+}
+.ba-waffle:before {
+  content: "\e91b";
+}
+.ba-boy:before {
+  content: "\e91c";
+}
+.ba-pudding:before {
+  content: "\e91d";
+}
+.ba-birthday-cake:before {
+  content: "\e91e";
+}
+.ba-pastry-chef-1:before {
+  content: "\e91f";
+}
+.ba-chocolate-1:before {
+  content: "\e920";
+}
+.ba-pastry-chef:before {
+  content: "\e921";
+}
+.ba-cake-3:before {
+  content: "\e922";
+}
+.ba-muffin:before {
+  content: "\e923";
+}
+.ba-cake-2:before {
+  content: "\e924";
+}
+.ba-pizza:before {
+  content: "\e925";
+}
+.ba-dessert:before {
+  content: "\e926";
+}
+.ba-pizza-slice:before {
+  content: "\e927";
+}
+.ba-baker:before {
+  content: "\e928";
+}
+.ba-spoon:before {
+  content: "\e929";
+}
+.ba-cake-1:before {
+  content: "\e92a";
+}
+.ba-peeler:before {
+  content: "\e92b";
+}
+.ba-bread-roll:before {
+  content: "\e92c";
+}
+.ba-sieve:before {
+  content: "\e92d";
+}
+.ba-bakery-shop:before {
+  content: "\e92e";
+}
+.ba-pastry-brush:before {
+  content: "\e92f";
+}
+.ba-macaron-1:before {
+  content: "\e930";
+}
+.ba-mixer-2:before {
+  content: "\e931";
+}
+.ba-cup:before {
+  content: "\e932";
+}
+.ba-mixer-1:before {
+  content: "\e933";
+}
+.ba-dredger:before {
+  content: "\e934";
+}
+.ba-waffles:before {
+  content: "\e935";
+}
+.ba-chef-hat:before {
+  content: "\e936";
+}
+.ba-donuts:before {
+  content: "\e937";
+}
+.ba-macaron:before {
+  content: "\e938";
+}
+.ba-mixer:before {
+  content: "\e939";
+}
+.ba-cake:before {
+  content: "\e93a";
+}
+.ba-spatula:before {
+  content: "\e93b";
+}
+.ba-bowl:before {
+  content: "\e93c";
+}
+.ba-sweet:before {
+  content: "\e93d";
+}
+.ba-apron:before {
+  content: "\e93e";
+}
+.ba-chocolate:before {
+  content: "\e93f";
+}
+.ba-cake2:before {
+  content: "\e940";
+}
+.ba-balance:before {
+  content: "\e941";
+}
+.ba-beaker:before {
+  content: "\e942";
+}
+.ba-baguette:before {
+  content: "\e943";
+}
+.ba-oven-mitt:before {
+  content: "\e944";
+}
+.ba-knife:before {
+  content: "\e945";
+}
+.ba-bread-1:before {
+  content: "\e946";
+}
+.ba-cinnamon-roll:before {
+  content: "\e947";
+}
+.ba-cracker-1:before {
+  content: "\e948";
+}
+.ba-doughnut-1:before {
+  content: "\e949";
+}
+.ba-doughnut:before {
+  content: "\e94a";
+}
+.ba-macaron2:before {
+  content: "\e94b";
+}
+.ba-jam:before {
+  content: "\e94c";
+}
+.ba-bread2:before {
+  content: "\e94d";
+}
+.ba-cracker:before {
+  content: "\e94e";
+}
+.ba-pie:before {
+  content: "\e94f";
+}
+.ba-oven2:before {
+  content: "\e950";
+}
+.ba-roller:before {
+  content: "\e951";
+}
+.ba-back:before {
+  content: "\e952";
+}
+.ba-bear-claw:before {
+  content: "\e953";
+}
+.ba-big-lollipop:before {
+  content: "\e954";
+}
+.ba-big-pretzel:before {
+  content: "\e955";
+}
+.ba-birthday-cake-with-three-candles:before {
+  content: "\e956";
+}
+.ba-biscuit-with-sugar:before {
+  content: "\e957";
+}
+.ba-bulk-wrapped-candy:before {
+  content: "\e958";
+}
+.ba-buscuit-sandwich:before {
+  content: "\e959";
+}
+.ba-cake-roll:before {
+  content: "\e95a";
+}
+.ba-cake-slice-with-cherry:before {
+  content: "\e95b";
+}
+.ba-candy-worm:before {
+  content: "\e95c";
+}
+.ba-candy-wraped:before {
+  content: "\e95d";
+}
+.ba-caramel-candy:before {
+  content: "\e95e";
+}
+.ba-chocochip-cookie:before {
+  content: "\e95f";
+}
+.ba-chocolate-bar:before {
+  content: "\e960";
+}
+.ba-chocolate-eclair:before {
+  content: "\e961";
+}
+.ba-christmas-candy:before {
+  content: "\e962";
+}
+.ba-christmas-candy-cane:before {
+  content: "\e963";
+}
+.ba-clock:before {
+  content: "\e964";
+}
+.ba-cotton-candy:before {
+  content: "\e965";
+}
+.ba-cream-cupcake:before {
+  content: "\e966";
+}
+.ba-delivery-truck-2:before {
+  content: "\e967";
+}
+.ba-donut-with-sugar:before {
+  content: "\e968";
+}
+.ba-gelatin-dessert:before {
+  content: "\e969";
+}
+.ba-gingerbread-man:before {
+  content: "\e96a";
+}
+.ba-gumballs-in-a-round-crystal-bottle:before {
+  content: "\e96b";
+}
+.ba-gummy-bear:before {
+  content: "\e96c";
+}
+.ba-halloween-candy:before {
+  content: "\e96d";
+}
+.ba-heart:before {
+  content: "\e96e";
+}
+.ba-honey-jar-dripping:before {
+  content: "\e96f";
+}
+.ba-hot-chocolate-cup:before {
+  content: "\e970";
+}
+.ba-ice-cream-cone:before {
+  content: "\e971";
+}
+.ba-ice-cream-cone-melting:before {
+  content: "\e972";
+}
+.ba-ice-cream-stick:before {
+  content: "\e973";
+}
+.ba-jelly-bean:before {
+  content: "\e974";
+}
+.ba-lava-cake:before {
+  content: "\e975";
+}
+.ba-licorice-stick:before {
+  content: "\e976";
+}
+.ba-macarone:before {
+  content: "\e977";
+}
+.ba-magnifying-glass:before {
+  content: "\e978";
+}
+.ba-mail:before {
+  content: "\e979";
+}
+.ba-marshmallow-with-stick:before {
+  content: "\e97a";
+}
+.ba-milkshake-with-straw:before {
+  content: "\e97b";
+}
+.ba-muffin-with-chocolate:before {
+  content: "\e97c";
+}
+.ba-next:before {
+  content: "\e97d";
+}
+.ba-peppermint-lollypop:before {
+  content: "\e97e";
+}
+.ba-profile:before {
+  content: "\e97f";
+}
+.ba-pudding-with-cherry-on-top:before {
+  content: "\e980";
+}
+.ba-reload:before {
+  content: "\e981";
+}
+.ba-round-waffle:before {
+  content: "\e982";
+}
+.ba-route:before {
+  content: "\e983";
+}
+.ba-shopping:before {
+  content: "\e984";
+}
+.ba-soft-candy:before {
+  content: "\e985";
+}
+.ba-sponge-slice:before {
+  content: "\e986";
+}
+.ba-sucker-candy:before {
+  content: "\e987";
+}
+.ba-sundae-with-cherry-on-top:before {
+  content: "\e988";
+}
+.ba-sweet-pancake:before {
+  content: "\e989";
+}
+.ba-sweet-pie:before {
+  content: "\e98a";
+}
+.ba-taffy-candy:before {
+  content: "\e98b";
+}
+.ba-tofee-apple-with-stick:before {
+  content: "\e98c";
+}
+.ba-toffee-candy:before {
+  content: "\e98d";
+}
+.ba-weather:before {
+  content: "\e98e";
+}
+.ba-wine-gum:before {
+  content: "\e98f";
+}
